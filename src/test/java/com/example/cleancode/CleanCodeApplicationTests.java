@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class CleanCodeApplicationTests {
 
     @Test
-    void contextLoads() {
+    void jtaTransactionManagerWithDoubleCommit() {
+        JtaTransaction
     }
 
 }
